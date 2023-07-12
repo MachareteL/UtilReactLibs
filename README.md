@@ -10,6 +10,7 @@ A compiled amount of react libs, package and extensions to help me out to do not
  - [Taiilwind CSS](https://tailwindcss.com/)
  - [Tailwind UI](https://tailwindui.com/)
  - [primeReact](https://primereact.org/)
+ - [Tailwind Elements Snippets](https://react-tailwind-snippets.vercel.app/snippets)
 
 ## **Useful Basic Components**
  - Simple React Snippets
