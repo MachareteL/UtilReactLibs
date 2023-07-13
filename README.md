@@ -11,6 +11,7 @@ A compiled amount of react libs, package and extensions to help me out to do not
  - [Tailwind UI](https://tailwindui.com/)
  - [primeReact](https://primereact.org/)
  - [Tailwind Elements Snippets](https://react-tailwind-snippets.vercel.app/snippets)
+ - [Headless UI](https://headlessui.com/)
 
 ## **Useful Basic Components**
  - Simple React Snippets
