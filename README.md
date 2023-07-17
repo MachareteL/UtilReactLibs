@@ -6,12 +6,16 @@ A compiled amount of react libs, package and extensions to help me out to do not
  - [Embla-Carousel](https://www.embla-carousel.com/)
  - [SwiperJS](https://swiperjs.com/)
 
-## **Styling:**
+## **TEMPLATES:**
  - [Taiilwind CSS](https://tailwindcss.com/)
  - [Tailwind UI](https://tailwindui.com/)
  - [primeReact](https://primereact.org/)
  - [Tailwind Elements Snippets](https://react-tailwind-snippets.vercel.app/snippets)
  - [Headless UI](https://headlessui.com/)
+
+##**UI Feedback:**
+ - [SweetAlert](https://sweetalert2.github.io/)
+ - [Headless UI Dialog Modal](https://headlessui.com/react/dialog)
 
 ## **Useful Basic Components**
  - Simple React Snippets
