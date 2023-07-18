@@ -19,3 +19,6 @@ A compiled amount of react libs, package and extensions to help me out to do not
 
 ## **Useful Basic Components**
  - Simple React Snippets
+
+## **Create Style or Design from CANVA**
+ - [Generate SVG Shapes](https://www.softr.io/tools/svg-shape-generator)
