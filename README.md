@@ -22,3 +22,5 @@ A compiled amount of react libs, package and extensions to help me out to do not
 
 ## **Create Style or Design from CANVA**
  - [Generate SVG Shapes](https://www.softr.io/tools/svg-shape-generator)
+ - [Image Placeholder Lorem Picsum](https://picsum.photos/)
+ - [Image Placeholder Via Placeholder](https://via.placeholder.com/150)
