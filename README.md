@@ -24,3 +24,7 @@ A compiled amount of react libs, package and extensions to help me out to do not
  - [Generate SVG Shapes](https://www.softr.io/tools/svg-shape-generator)
  - [Image Placeholder Lorem Picsum](https://picsum.photos/)
  - [Image Placeholder Via Placeholder](https://via.placeholder.com/150)
+
+## **Animations**
+ - [Auto Animate](https://auto-animate.formkit.com/#installation)
+ - [Framer/Motion](https://www.framer.com/motion/)
