@@ -13,7 +13,7 @@ A compiled amount of react libs, package and extensions to help me out to do not
  - [Tailwind Elements Snippets](https://react-tailwind-snippets.vercel.app/snippets)
  - [Headless UI](https://headlessui.com/)
 
-##**UI Feedback:**
+## **UI Feedback:**
  - [SweetAlert](https://sweetalert2.github.io/)
  - [Headless UI Dialog Modal](https://headlessui.com/react/dialog)
 
@@ -31,3 +31,6 @@ A compiled amount of react libs, package and extensions to help me out to do not
 
 ## **IMAGES/SVG**
  - [SVG ICON MONSTR](https://iconmonstr.com/)
+
+## **Templates**
+ - [One page Love](https://onepagelove.com/)
