@@ -13,6 +13,7 @@ A compiled amount of react libs, package and extensions to help me out to do not
  - [Tailwind Elements Snippets](https://react-tailwind-snippets.vercel.app/snippets)
  - [Headless UI](https://headlessui.com/)
  - [MambaUI](https://mambaui.com/)
+ - [MaterialUI](https://mui.com/material-ui/getting-started/)
 
 ## **UI Feedback:**
  - [SweetAlert](https://sweetalert2.github.io/)
@@ -39,6 +40,7 @@ A compiled amount of react libs, package and extensions to help me out to do not
 
 ## **COLORs**
  - [UI Colors](https://uicolors.app/create)
+
 ## **Components**
  - [Flowbite](https://flowbite.com/)
  - [XTendUI](https://xtendui.com/)
