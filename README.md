@@ -12,6 +12,7 @@ A compiled amount of react libs, package and extensions to help me out to do not
  - [primeReact](https://primereact.org/)
  - [Tailwind Elements Snippets](https://react-tailwind-snippets.vercel.app/snippets)
  - [Headless UI](https://headlessui.com/)
+ - [MambaUI](https://mambaui.com/)
 
 ## **UI Feedback:**
  - [SweetAlert](https://sweetalert2.github.io/)
@@ -38,4 +39,7 @@ A compiled amount of react libs, package and extensions to help me out to do not
 
 ## **COLORs**
  - [UI Colors](https://uicolors.app/create)
+## **Components**
+ - [Flowbite](https://flowbite.com/)
+ - [XTendUI](https://xtendui.com/)
 
