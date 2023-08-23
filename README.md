@@ -14,6 +14,8 @@ A compiled amount of react libs, package and extensions to help me out to do not
  - [Headless UI](https://headlessui.com/)
  - [MambaUI](https://mambaui.com/)
  - [MaterialUI](https://mui.com/material-ui/getting-started/)
+ - [Flowbite](https://flowbite.com/)
+ - [XTendUI](https://xtendui.com/)
 
 ## **UI Feedback:**
  - [SweetAlert](https://sweetalert2.github.io/)
@@ -42,6 +44,7 @@ A compiled amount of react libs, package and extensions to help me out to do not
  - [UI Colors](https://uicolors.app/create)
 
 ## **Components**
- - [Flowbite](https://flowbite.com/)
- - [XTendUI](https://xtendui.com/)
+ - [RechartJS](https://recharts.org/en-US/)
+ - [Rechart2JS](https://react-chartjs-2.js.org/)
+ 
 
