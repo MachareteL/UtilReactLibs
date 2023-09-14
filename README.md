@@ -33,6 +33,7 @@ A compiled amount of react libs, package and extensions to help me out to do not
 ## **Animations**
  - [Auto Animate](https://auto-animate.formkit.com/#installation)
  - [Framer/Motion](https://www.framer.com/motion/)
+ - [Lottie Files](https://lottiefiles.com/)
 
 ## **IMAGES/SVG**
  - [SVG ICON MONSTR](https://iconmonstr.com/)
